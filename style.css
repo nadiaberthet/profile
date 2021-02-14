@@ -31,6 +31,12 @@ ul {
   list-style-type: none;
 }
 
+.description p {
+  padding: 30px 15px;
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+}
+
 .list-inline {
   list-style: none;
   padding-left: 0px;
@@ -39,7 +45,7 @@ ul {
 
 .list-inline > li {
   display: inline-block;
-  padding: 0px 20px;
+  padding: -25px 0px;
 }
 
 .white-card {
